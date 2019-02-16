@@ -1,0 +1,19 @@
+.ui-multiselect { padding:1px 0 1px 4px; text-align:left; background: url("../images/ui-bg_glass_65_ffffff_1x400.png") repeat-x scroll 50% 50% rgb(230, 230, 230); font-size: 11px; }
+.ui-multiselect-header ul { font-size:1em }
+
+.ui-multiselect-checkboxes li { clear:both; font-size:1em; list-style: none; padding-right:3px; }
+.ui-multiselect-checkboxes .ui-multiselect-optgroup { padding: 0; }
+.ui-multiselect-checkboxes .ui-multiselect-optgroup a { border: 0; cursor: pointer; display:block; font-weight:bold; margin:1px 0; padding:3px; text-align:center; text-decoration:none; }
+.ui-multiselect-checkboxes .ui-multiselect-optgroup li { background-color: white }
+
+.ui-state-default {
+	color: #000000/*{fcDefault}*/;
+}
+
+.ui-widget {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.ui-icon {
+	margin-top: -0.1em;
+}

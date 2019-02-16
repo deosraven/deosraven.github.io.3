@@ -1,0 +1,10 @@
+#mpTopmenu .mpNiveau3, #mpTopmenu .mpNiveau4, #mpTopmenu .mpNiveau2 {
+	background-color: #006f7b;
+	color: white﻿;
+}
+
+#mpTopmenu .mpNiveau1 li:hover a.mpLevel1, #mpTopmenu .mpNiveau1 li a.mpLevel1:hover, #mpTopmenu .mpNiveau2 li:hover a.mpLevel2, #mpTopmenu .mpNiveau3 li:hover a.mpLevel3,
+	#mpTopmenu .mpNiveau4 li:hover {
+	background-color: #5fa4ab;
+	color: black;
+}
